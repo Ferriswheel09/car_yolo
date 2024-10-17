@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: C:\Users\fjiwa\Documents\classes\vision\car_yolo\dataset\train\images
+val: C:\Users\fjiwa\Documents\classes\vision\car_yolo\dataset\valid\images
+test: C:\Users\fjiwa\Documents\classes\vision\car_yolo\dataset\test\images
 
 nc: 3
 names: ['bus', 'car', 'truck']
